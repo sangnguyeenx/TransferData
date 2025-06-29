@@ -1,0 +1,20 @@
+﻿# Column Mapping Configuration
+# Configuration Name: Test
+# Created: 2025-06-27 21:41:45
+# Last Modified: 2025-06-27 21:42:27
+
+[SOURCE_DATABASE]
+ConnectionString=data source=103.152.165.48,1414;initial catalog=TueDuc_Cu;user id=sa;password=E9EKS3AnBn2qbAJRtASQ;MultipleActiveResultSets=True;
+DatabaseName=TueDuc_Cu
+TableName=DMLop
+
+[TARGET_DATABASE]
+ConnectionString=data source=103.152.165.48,1414;initial catalog=XanhTueDuc;user id=sa;password=E9EKS3AnBn2qbAJRtASQ;MultipleActiveResultSets=True
+DatabaseName=XanhTueDuc
+TableName=dm_lop
+
+[COLUMN_MAPPINGS]
+Ten_lop=ten_lop|nvarchar|True
+Nam_hoc=nam_hoc|nvarchar|True
+
+[FIXED_COLUMN_MAPPINGS]

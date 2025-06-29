@@ -1,0 +1,27 @@
+[SOURCE_DATABASE]
+ConnectionString=Data Source=localhost;Initial Catalog=EducationDB;Integrated Security=True;
+DatabaseName=EducationDB
+TableName=HocSinhChuyenCap
+
+[TARGET_DATABASE]
+ConnectionString=Data Source=localhost;Initial Catalog=StudentDB;Integrated Security=True;
+DatabaseName=StudentDB
+TableName=StudentTransfer
+
+[COLUMN_MAPPINGS]
+id=student_id|int|True
+nam_hoc=academic_year|varchar|True
+ts_hocsinh_id=student_code|int|True
+dm_he_id=education_level_id|int|True
+dm_truong_id=school_id|int|True
+dm_khoi_id=grade_id|int|True
+dm_lop_id=class_id|int|True
+thu_tu=order_number|int|True
+dm_trangthaihocsinh_id=student_status_id|int|True
+
+[FIXED_COLUMN_MAPPINGS]
+is_deleted=0|bit|True
+created_time=GETDATE()|datetime|True
+created_user_id=1|int|True
+last_modified_times=GETDATE()|datetime|True
+last_modified_user_id=1|int|False

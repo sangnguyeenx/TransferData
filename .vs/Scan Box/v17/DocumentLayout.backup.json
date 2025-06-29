@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|o:\\03. application\\01. software\\01. source codes\\01. mmcv\\01. output\\13. scan box\\01.source code\\scan-box\\scan box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|solutionrelative:scan box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\scan box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|solutionrelative:scan box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\scan box\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|solutionrelative:scan box\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\scan box\\common\\databox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|solutionrelative:scan box\\common\\databox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\scan box\\common\\boxhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|solutionrelative:scan box\\common\\boxhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\scan box\\smt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|solutionrelative:scan box\\smt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\scan box\\smt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|solutionrelative:scan box\\smt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\scan box\\smt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{006323BB-4D40-4261-A4AC-59C804810A7B}|Scan Box\\Scan Box.csproj|solutionrelative:scan box\\smt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\Scan Box\\Main.cs",
+              "RelativeDocumentMoniker": "Scan Box\\Main.cs",
+              "ToolTip": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\Scan Box\\Main.cs",
+              "RelativeToolTip": "Scan Box\\Main.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:27:01.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SMT.Designer.cs",
+              "DocumentMoniker": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\Scan Box\\SMT.Designer.cs",
+              "RelativeDocumentMoniker": "Scan Box\\SMT.Designer.cs",
+              "ToolTip": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\Scan Box\\SMT.Designer.cs",
+              "RelativeToolTip": "Scan Box\\SMT.Designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwNIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:58:12.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SMT.cs",
+              "DocumentMoniker": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\Scan Box\\SMT.cs",
+              "RelativeDocumentMoniker": "Scan Box\\SMT.cs",
+              "ToolTip": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\Scan Box\\SMT.cs",
+              "RelativeToolTip": "Scan Box\\SMT.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAIBJwL8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:35:09.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SMT.cs [Design]",
+              "DocumentMoniker": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\Scan Box\\SMT.cs",
+              "RelativeDocumentMoniker": "Scan Box\\SMT.cs",
+              "ToolTip": "D:\\L\u1ED9c\\ProjectWF\\13. Scan Box\\Scan-Box\\Scan Box\\SMT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:34:59.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\Scan Box\\Form1.cs",
+              "RelativeDocumentMoniker": "Scan Box\\Form1.cs",
+              "ToolTip": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\Scan Box\\Form1.cs [Design]",
+              "RelativeToolTip": "Scan Box\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T01:53:12.793Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\Scan Box\\Form1.cs",
+              "RelativeDocumentMoniker": "Scan Box\\Form1.cs",
+              "ToolTip": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\Scan Box\\Form1.cs",
+              "RelativeToolTip": "Scan Box\\Form1.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAowGEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T01:58:52.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBox.cs",
+              "DocumentMoniker": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\Scan Box\\Common\\DataBox.cs",
+              "RelativeDocumentMoniker": "Scan Box\\Common\\DataBox.cs",
+              "ToolTip": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\Scan Box\\Common\\DataBox.cs",
+              "RelativeToolTip": "Scan Box\\Common\\DataBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:26:17.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BoxHistory.cs",
+              "DocumentMoniker": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\Scan Box\\Common\\BoxHistory.cs",
+              "RelativeDocumentMoniker": "Scan Box\\Common\\BoxHistory.cs",
+              "ToolTip": "O:\\03. APPLICATION\\01. Software\\01. Source Codes\\01. MMCV\\01. OUTPUT\\13. Scan Box\\01.Source Code\\Scan-Box\\Scan Box\\Common\\BoxHistory.cs",
+              "RelativeToolTip": "Scan Box\\Common\\BoxHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:53:37.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

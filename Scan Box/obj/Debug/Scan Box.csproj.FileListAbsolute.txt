@@ -1,0 +1,78 @@
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan Box\Scan Box\bin\Debug\Scan Box.exe.config
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan Box\Scan Box\bin\Debug\Scan Box.exe
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan Box\Scan Box\bin\Debug\Scan Box.pdb
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan Box\Scan Box\bin\Debug\IBM.Data.DB2.iSeries.dll
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan Box\Scan Box\obj\Debug\Scan Box.csproj.AssemblyReference.cache
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan Box\Scan Box\obj\Debug\Scan_Box.Form1.resources
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan Box\Scan Box\obj\Debug\Scan_Box.Properties.Resources.resources
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan Box\Scan Box\obj\Debug\Scan Box.csproj.GenerateResource.cache
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan Box\Scan Box\obj\Debug\Scan Box.csproj.CoreCompileInputs.cache
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan Box\Scan Box\obj\Debug\Scan Box.csproj.CopyComplete
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan Box\Scan Box\obj\Debug\Scan Box.exe
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan Box\Scan Box\obj\Debug\Scan Box.pdb
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan-Box\Scan Box\bin\Debug\Scan Box.exe.config
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan-Box\Scan Box\bin\Debug\Scan Box.exe
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan-Box\Scan Box\bin\Debug\Scan Box.pdb
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan-Box\Scan Box\bin\Debug\IBM.Data.DB2.iSeries.dll
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan Box.csproj.AssemblyReference.cache
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan_Box.Form1.resources
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan_Box.Properties.Resources.resources
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan Box.csproj.GenerateResource.cache
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan Box.csproj.CoreCompileInputs.cache
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan Box.csproj.Up2Date
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan Box.exe
+O:\03. APPLICATION\01. Software\01. Source Codes\01. MMCV\01. OUTPUT\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan Box.pdb
+D:\Lộc\ProjectWF\13. Scan Box\Scan-Box\Scan Box\bin\Debug\Scan Box.exe.config
+D:\Lộc\ProjectWF\13. Scan Box\Scan-Box\Scan Box\bin\Debug\Scan Box.exe
+D:\Lộc\ProjectWF\13. Scan Box\Scan-Box\Scan Box\bin\Debug\Scan Box.pdb
+D:\Lộc\ProjectWF\13. Scan Box\Scan-Box\Scan Box\bin\Debug\IBM.Data.DB2.iSeries.dll
+D:\Lộc\ProjectWF\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan Box.csproj.AssemblyReference.cache
+D:\Lộc\ProjectWF\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan_Box.Form1.resources
+D:\Lộc\ProjectWF\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan_Box.Main.resources
+D:\Lộc\ProjectWF\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan_Box.Properties.Resources.resources
+D:\Lộc\ProjectWF\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan Box.csproj.GenerateResource.cache
+D:\Lộc\ProjectWF\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan Box.csproj.CoreCompileInputs.cache
+D:\Lộc\ProjectWF\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan Box.exe
+D:\Lộc\ProjectWF\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan Box.pdb
+D:\Lộc\ProjectWF\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan_Box.SMT.resources
+D:\Lộc\ProjectWF\13. Scan Box\Scan-Box\Scan Box\obj\Debug\Scan Box.csproj.Up2Date
+C:\Users\MV240030\Desktop\Scan-Box\Scan Box\bin\Debug\Scan Box.exe.config
+C:\Users\MV240030\Desktop\Scan-Box\Scan Box\bin\Debug\Scan Box.exe
+C:\Users\MV240030\Desktop\Scan-Box\Scan Box\bin\Debug\Scan Box.pdb
+C:\Users\MV240030\Desktop\Scan-Box\Scan Box\bin\Debug\IBM.Data.DB2.iSeries.dll
+C:\Users\MV240030\Desktop\Scan-Box\Scan Box\obj\Debug\Scan_Box.Form1.resources
+C:\Users\MV240030\Desktop\Scan-Box\Scan Box\obj\Debug\Scan_Box.Main.resources
+C:\Users\MV240030\Desktop\Scan-Box\Scan Box\obj\Debug\Scan_Box.Properties.Resources.resources
+C:\Users\MV240030\Desktop\Scan-Box\Scan Box\obj\Debug\Scan_Box.SMT.resources
+C:\Users\MV240030\Desktop\Scan-Box\Scan Box\obj\Debug\Scan Box.csproj.GenerateResource.cache
+C:\Users\MV240030\Desktop\Scan-Box\Scan Box\obj\Debug\Scan Box.csproj.CoreCompileInputs.cache
+C:\Users\MV240030\Desktop\Scan-Box\Scan Box\obj\Debug\Scan Box.csproj.CopyComplete
+C:\Users\MV240030\Desktop\Scan-Box\Scan Box\obj\Debug\Scan Box.exe
+C:\Users\MV240030\Desktop\Scan-Box\Scan Box\obj\Debug\Scan Box.pdb
+C:\Users\MV240030\Desktop\Transfer\Scan Box\bin\Debug\Scan Box.exe.config
+C:\Users\MV240030\Desktop\Transfer\Scan Box\bin\Debug\Scan Box.exe
+C:\Users\MV240030\Desktop\Transfer\Scan Box\bin\Debug\Scan Box.pdb
+C:\Users\MV240030\Desktop\Transfer\Scan Box\bin\Debug\IBM.Data.DB2.iSeries.dll
+C:\Users\MV240030\Desktop\Transfer\Scan Box\obj\Debug\Scan_Box.ColumnMappingForm.resources
+C:\Users\MV240030\Desktop\Transfer\Scan Box\obj\Debug\Scan_Box.ConfigSelectionForm.resources
+C:\Users\MV240030\Desktop\Transfer\Scan Box\obj\Debug\Scan_Box.MappingExecutionForm.resources
+C:\Users\MV240030\Desktop\Transfer\Scan Box\obj\Debug\Scan_Box.Properties.Resources.resources
+C:\Users\MV240030\Desktop\Transfer\Scan Box\obj\Debug\Scan Box.csproj.GenerateResource.cache
+C:\Users\MV240030\Desktop\Transfer\Scan Box\obj\Debug\Scan Box.csproj.CoreCompileInputs.cache
+C:\Users\MV240030\Desktop\Transfer\Scan Box\obj\Debug\Scan Box.csproj.CopyComplete
+C:\Users\MV240030\Desktop\Transfer\Scan Box\obj\Debug\Scan Box.exe
+C:\Users\MV240030\Desktop\Transfer\Scan Box\obj\Debug\Scan Box.pdb
+C:\Users\SANG\Desktop\Transfer\Scan Box\bin\Debug\Scan Box.exe.config
+C:\Users\SANG\Desktop\Transfer\Scan Box\bin\Debug\Scan Box.exe
+C:\Users\SANG\Desktop\Transfer\Scan Box\bin\Debug\Scan Box.pdb
+C:\Users\SANG\Desktop\Transfer\Scan Box\bin\Debug\IBM.Data.DB2.iSeries.dll
+C:\Users\SANG\Desktop\Transfer\Scan Box\obj\Debug\Scan Box.csproj.AssemblyReference.cache
+C:\Users\SANG\Desktop\Transfer\Scan Box\obj\Debug\Scan_Box.ColumnMappingForm.resources
+C:\Users\SANG\Desktop\Transfer\Scan Box\obj\Debug\Scan_Box.ConfigSelectionForm.resources
+C:\Users\SANG\Desktop\Transfer\Scan Box\obj\Debug\Scan_Box.MappingExecutionForm.resources
+C:\Users\SANG\Desktop\Transfer\Scan Box\obj\Debug\Scan_Box.Properties.Resources.resources
+C:\Users\SANG\Desktop\Transfer\Scan Box\obj\Debug\Scan Box.csproj.GenerateResource.cache
+C:\Users\SANG\Desktop\Transfer\Scan Box\obj\Debug\Scan Box.csproj.CoreCompileInputs.cache
+C:\Users\SANG\Desktop\Transfer\Scan Box\obj\Debug\Scan Box.csproj.Up2Date
+C:\Users\SANG\Desktop\Transfer\Scan Box\obj\Debug\Scan Box.exe
+C:\Users\SANG\Desktop\Transfer\Scan Box\obj\Debug\Scan Box.pdb
