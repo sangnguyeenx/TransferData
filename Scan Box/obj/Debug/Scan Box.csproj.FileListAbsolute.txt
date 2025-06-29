@@ -76,3 +76,17 @@ C:\Users\SANG\Desktop\Transfer\Scan Box\obj\Debug\Scan Box.csproj.CoreCompileInp
 C:\Users\SANG\Desktop\Transfer\Scan Box\obj\Debug\Scan Box.csproj.Up2Date
 C:\Users\SANG\Desktop\Transfer\Scan Box\obj\Debug\Scan Box.exe
 C:\Users\SANG\Desktop\Transfer\Scan Box\obj\Debug\Scan Box.pdb
+C:\Users\SANG\Desktop\Transfer\TransferData\Scan Box\bin\Debug\Scan Box.exe.config
+C:\Users\SANG\Desktop\Transfer\TransferData\Scan Box\bin\Debug\Scan Box.exe
+C:\Users\SANG\Desktop\Transfer\TransferData\Scan Box\bin\Debug\Scan Box.pdb
+C:\Users\SANG\Desktop\Transfer\TransferData\Scan Box\bin\Debug\IBM.Data.DB2.iSeries.dll
+C:\Users\SANG\Desktop\Transfer\TransferData\Scan Box\obj\Debug\Scan Box.csproj.AssemblyReference.cache
+C:\Users\SANG\Desktop\Transfer\TransferData\Scan Box\obj\Debug\Scan_Box.ColumnMappingForm.resources
+C:\Users\SANG\Desktop\Transfer\TransferData\Scan Box\obj\Debug\Scan_Box.ConfigSelectionForm.resources
+C:\Users\SANG\Desktop\Transfer\TransferData\Scan Box\obj\Debug\Scan_Box.MappingExecutionForm.resources
+C:\Users\SANG\Desktop\Transfer\TransferData\Scan Box\obj\Debug\Scan_Box.Properties.Resources.resources
+C:\Users\SANG\Desktop\Transfer\TransferData\Scan Box\obj\Debug\Scan Box.csproj.GenerateResource.cache
+C:\Users\SANG\Desktop\Transfer\TransferData\Scan Box\obj\Debug\Scan Box.csproj.CoreCompileInputs.cache
+C:\Users\SANG\Desktop\Transfer\TransferData\Scan Box\obj\Debug\Scan Box.csproj.Up2Date
+C:\Users\SANG\Desktop\Transfer\TransferData\Scan Box\obj\Debug\Scan Box.exe
+C:\Users\SANG\Desktop\Transfer\TransferData\Scan Box\obj\Debug\Scan Box.pdb
